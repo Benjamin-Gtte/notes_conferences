@@ -1,0 +1,13 @@
+{
+  "readableLineLength": false,
+  "promptDelete": false,
+  "userIgnoreFilters": [
+    "3. Writing/",
+    "4. Notes/",
+    "2. Notions/",
+    "5. Images/"
+  ],
+  "rightToLeft": false,
+  "attachmentFolderPath": "_.Images",
+  "alwaysUpdateLinks": true
+}

@@ -1,0 +1,285 @@
+{
+  "main": {
+    "id": "362b1e973a2ad1ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "80213eaa8655d682",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dfa889f690000371",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GDR-GDM IRCAM 20-11-2024 22-11-2024/_GDR-GDM IRCAM 20-11-2024 22-11-2024.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_GDR-GDM IRCAM 20-11-2024 22-11-2024"
+            }
+          },
+          {
+            "id": "235c8a43aa472893",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notions/Newton-Euler's algorithm.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Newton-Euler's algorithm"
+            }
+          }
+        ],
+        "currentTab": 1,
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ff610869d44f9bfe",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a20dd36dc7239f2",
+        "type": "tabs",
+        "dimension": 58.264081255771,
+        "children": [
+          {
+            "id": "0789db79e94f3b48",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "571de732aae81c36",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "[\"➕ Repetitions\"]",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1c367ab16cf3517f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "17d1ce103ca62c74",
+        "type": "tabs",
+        "dimension": 41.735918744229,
+        "children": [
+          {
+            "id": "e03fe40b8af7cd9c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "2cfc66d054d0a3dd",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "GDR-GDM IRCAM 20-11-2024 22-11-2024/_GDR-GDM IRCAM 20-11-2024 22-11-2024.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of _GDR-GDM IRCAM 20-11-2024 22-11-2024"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "6359abbb546b082a",
+    "type": "split",
+    "children": [
+      {
+        "id": "62938222f52bdfd1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "892203019850c86b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "33fe70896986b148",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "80cf020908e888d5",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "1e6a6ee7043f626b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "GDR-GDM IRCAM 20-11-2024 22-11-2024/_GDR-GDM IRCAM 20-11-2024 22-11-2024.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of _GDR-GDM IRCAM 20-11-2024 22-11-2024"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 271.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": false,
+      "switcher:Open quick switcher": true,
+      "canvas:Create new canvas": false,
+      "obsidian-git:Open Git source control": false,
+      "quickadd:QuickAdd": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "0789db79e94f3b48",
+  "lastOpenFiles": [
+    "Notions/Cosserat beams.md",
+    "Notions/Kalman filter.md",
+    "Notions/Newton-Euler's algorithm.md",
+    "Welcome.md 18-17-58-684.md",
+    "Untitled.md 11-28-18-170.md",
+    "GDR-GDM IRCAM 20-11-2024 22-11-2024/S. Bonnabel - Filtrage géométrique et navigation autonome.md",
+    "notes_conferences",
+    "Excalidraw/S. Bonnabel banana.excalidraw.md",
+    "_.Images/Pasted image 20241121164610.png",
+    "GDR-GDM IRCAM 20-11-2024 22-11-2024/_GDR-GDM IRCAM 20-11-2024 22-11-2024.md",
+    "GDR-GDM IRCAM 20-11-2024 22-11-2024/M. Hariz - Analysis of one-dimensional structure using Lie groups approach.md",
+    "Images",
+    "GDR-GDM IRCAM 20-11-2024 22-11-2024/F. Boyer.pdf",
+    "GDR-GDM IRCAM 20-11-2024 22-11-2024/F. Boyer - Application du modèle des poutres Cosserat en robotique continue.md",
+    "Excalidraw/F. Boyer 2.excalidraw.md",
+    "_.Images/Pasted image 20241121142255.png",
+    "GDR-GDM IRCAM 20-11-2024 22-11-2024/07_8_Auto.pdf",
+    "GDR-GDM IRCAM 20-11-2024 22-11-2024/F. Boyer.pdf.pdf",
+    "07_8_Auto.pdf",
+    "GDR-GDM IRCAM 20-11-2024 22-11-2024/B. Portelenelle - Simulations numériques des équations d'Euler avec formalisme espace-temps.md",
+    "boyer-2016.pdf",
+    "Excalidraw/f.boyer.excalidraw.md",
+    "Notions/finite volume method.md",
+    "Notions/submersion.md",
+    "Notions/Simpson's quadrature.md",
+    "Notions/Schur decomposition.md",
+    "Notions/Rusanov's flux.md",
+    "Notions/perfect matter.md",
+    "Notions/Newmark integration scheme.md",
+    "Notions/Navier stockes equations.md",
+    "Notions/Liouville theorem.md",
+    "Notions/implicit Euler.md",
+    "Notions/immersion.md",
+    "Notions/Gauge Theory.md",
+    "_.Images/Pasted image 20241121124520.png",
+    "_.Images/Pasted image 20241121124436.png",
+    "_.Images/Pasted image 20241121123101.png",
+    "_.Images/Pasted image 20241121122702.png",
+    "_.Images/Pasted image 20241121122600.png",
+    "Excalidraw",
+    "_.Images/Pasted image 20241121115532.png",
+    "_.Images/Pasted image 20241121115527.png",
+    "_.Images/Pasted image 20241121115117.png",
+    "Notions",
+    "_.Images",
+    "Untitled.canvas",
+    "From thermodynamics of irreversible processes to Dirac structures 1.canvas",
+    "From thermodynamics of irreversible processes to Dirac structures.canvas",
+    "Untitled 1.canvas",
+    "4. Notes/MOOC Write your own literature review/Scope of the review.canvas"
+  ]
+}
