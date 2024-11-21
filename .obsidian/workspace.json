@@ -13,32 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDR-GDM IRCAM 20-11-2024 22-11-2024/_GDR-GDM IRCAM 20-11-2024 22-11-2024.md",
+                "file": "Notions/Newmark integration scheme.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_GDR-GDM IRCAM 20-11-2024 22-11-2024"
+              "title": "Newmark integration scheme"
             }
           },
           {
-            "id": "235c8a43aa472893",
+            "id": "e5f99b45c0ed6357",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notions/Newton-Euler's algorithm.md",
+                "file": "GDR-GDM IRCAM 20 au 22 Novembre 2024/T. Hélie - IRCAM-STMS - quelques approches pour la synthèse sonore par modélisation physique et l'analyse des Sons.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Newton-Euler's algorithm"
+              "title": "T. Hélie - IRCAM-STMS - quelques approches pour la synthèse sonore par modélisation physique et l'analyse des Sons"
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -115,7 +114,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "GDR-GDM IRCAM 20-11-2024 22-11-2024/_GDR-GDM IRCAM 20-11-2024 22-11-2024.md",
+                "file": "Notions/Newmark integration scheme.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -143,7 +142,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of _GDR-GDM IRCAM 20-11-2024 22-11-2024"
+              "title": "Graph of Newmark integration scheme"
             }
           }
         ],
@@ -204,10 +203,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GDR-GDM IRCAM 20-11-2024 22-11-2024/_GDR-GDM IRCAM 20-11-2024 22-11-2024.md"
+                "file": "Notions/Newmark integration scheme.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of _GDR-GDM IRCAM 20-11-2024 22-11-2024"
+              "title": "Outline of Newmark integration scheme"
             }
           }
         ]
@@ -229,42 +228,45 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0789db79e94f3b48",
+  "active": "dfa889f690000371",
   "lastOpenFiles": [
-    "Notions/Cosserat beams.md",
+    "T. Hélie - IRCAM-STMS.md",
+    "Notions/Newmark integration scheme.md",
+    "Notions/Navier stockes equations.md",
+    "Notions/immersion.md",
     "Notions/Kalman filter.md",
+    "Notions/Liouville theorem.md",
+    "GDR-GDM IRCAM 20 au 22 Novembre 2024/_GDR-GDM IRCAM 20-11-2024 22-11-2024.md",
+    "GDR-GDM IRCAM 20 au 22 Novembre 2024/T. Hélie - IRCAM-STMS - quelques approches pour la synthèse sonore par modélisation physique et l'analyse des Sons.md",
+    "GDR-GDM IRCAM 20 au 22 Novembre 2024/B. Kolev - Théorie du second gradient dans le cadre relativiste - Covariance générale versus Objectivité.md",
+    "GDR-GDM IRCAM 20 au 22 Novembre 2024/F. Boyer.pdf",
+    "GDR-GDM IRCAM 20 au 22 Novembre 2024/B. Valette - Les oscillations gravito-élastiques de la Terre une invitation à l'étude d'une classe de problèmes spectraux.md",
+    "GDR-GDM IRCAM 20-11-2024 22-11-2024/_GDR-GDM IRCAM 20-11-2024 22-11-2024.md",
+    "GDR-GDM IRCAM 20 au 22 Novembre 2024/S. Bonnabel - Filtrage géométrique et navigation autonome.md",
+    "GDR-GDM IRCAM 20 au 22 Novembre 2024/R. Desmorat - Sur la formulation covariante générale de l'hyperélasticité relativiste.md",
+    "GDR-GDM IRCAM 20 au 22 Novembre 2024/M. Hariz - Analysis of one-dimensional structure using Lie groups approach.md",
+    "GDR-GDM IRCAM 20 au 22 Novembre 2024/G. de Saxcé - Thermodynamique pentadimensionnelle des milieux continus.md",
+    "GDR-GDM IRCAM 20 au 22 Novembre 2024/F. Helein - Géométrie multisymplectique et physique.md",
+    "GDR-GDM IRCAM 20 au 22 Novembre 2024/F. Dubois - Intégration de Simpson et schéma symplectique du quatrième ordre.md",
+    "GDR-GDM IRCAM 20 au 22 Novembre 2024/F. Boyer - Application du modèle des poutres Cosserat en robotique continue.md",
+    "GDR-GDM IRCAM 20 au 22 Novembre 2024/B. Portelenelle - Simulations numériques des équations d'Euler avec formalisme espace-temps.md",
+    "GDR-GDM IRCAM 20 au 22 Novembre 2024",
+    "GDR-GDM IRCAM 20-11-2024 22-11-2024/S. Bonnabel - Filtrage géométrique et navigation autonome.md",
+    "Notions/Cosserat beams.md",
     "Notions/Newton-Euler's algorithm.md",
     "Welcome.md 18-17-58-684.md",
     "Untitled.md 11-28-18-170.md",
-    "GDR-GDM IRCAM 20-11-2024 22-11-2024/S. Bonnabel - Filtrage géométrique et navigation autonome.md",
     "notes_conferences",
     "Excalidraw/S. Bonnabel banana.excalidraw.md",
     "_.Images/Pasted image 20241121164610.png",
-    "GDR-GDM IRCAM 20-11-2024 22-11-2024/_GDR-GDM IRCAM 20-11-2024 22-11-2024.md",
     "GDR-GDM IRCAM 20-11-2024 22-11-2024/M. Hariz - Analysis of one-dimensional structure using Lie groups approach.md",
     "Images",
     "GDR-GDM IRCAM 20-11-2024 22-11-2024/F. Boyer.pdf",
-    "GDR-GDM IRCAM 20-11-2024 22-11-2024/F. Boyer - Application du modèle des poutres Cosserat en robotique continue.md",
-    "Excalidraw/F. Boyer 2.excalidraw.md",
     "_.Images/Pasted image 20241121142255.png",
     "GDR-GDM IRCAM 20-11-2024 22-11-2024/07_8_Auto.pdf",
     "GDR-GDM IRCAM 20-11-2024 22-11-2024/F. Boyer.pdf.pdf",
     "07_8_Auto.pdf",
-    "GDR-GDM IRCAM 20-11-2024 22-11-2024/B. Portelenelle - Simulations numériques des équations d'Euler avec formalisme espace-temps.md",
     "boyer-2016.pdf",
-    "Excalidraw/f.boyer.excalidraw.md",
-    "Notions/finite volume method.md",
-    "Notions/submersion.md",
-    "Notions/Simpson's quadrature.md",
-    "Notions/Schur decomposition.md",
-    "Notions/Rusanov's flux.md",
-    "Notions/perfect matter.md",
-    "Notions/Newmark integration scheme.md",
-    "Notions/Navier stockes equations.md",
-    "Notions/Liouville theorem.md",
-    "Notions/implicit Euler.md",
-    "Notions/immersion.md",
-    "Notions/Gauge Theory.md",
     "_.Images/Pasted image 20241121124520.png",
     "_.Images/Pasted image 20241121124436.png",
     "_.Images/Pasted image 20241121123101.png",
@@ -274,8 +276,6 @@
     "_.Images/Pasted image 20241121115532.png",
     "_.Images/Pasted image 20241121115527.png",
     "_.Images/Pasted image 20241121115117.png",
-    "Notions",
-    "_.Images",
     "Untitled.canvas",
     "From thermodynamics of irreversible processes to Dirac structures 1.canvas",
     "From thermodynamics of irreversible processes to Dirac structures.canvas",
