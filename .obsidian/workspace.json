@@ -11,15 +11,12 @@
             "id": "dfa889f690000371",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Notions/Newmark integration scheme.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Excalidraw/B. Portelenelle.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Newmark integration scheme"
+              "icon": "excalidraw-icon",
+              "title": "B. Portelenelle.excalidraw"
             }
           },
           {
@@ -38,6 +35,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -114,7 +112,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notions/Newmark integration scheme.md",
+                "file": "GDR-GDM IRCAM 20 au 22 Novembre 2024/T. Hélie - IRCAM-STMS - quelques approches pour la synthèse sonore par modélisation physique et l'analyse des Sons.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -142,7 +140,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Newmark integration scheme"
+              "title": "Graph of T. Hélie - IRCAM-STMS - quelques approches pour la synthèse sonore par modélisation physique et l'analyse des Sons"
             }
           }
         ],
@@ -203,10 +201,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notions/Newmark integration scheme.md"
+                "file": "GDR-GDM IRCAM 20 au 22 Novembre 2024/T. Hélie - IRCAM-STMS - quelques approches pour la synthèse sonore par modélisation physique et l'analyse des Sons.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Newmark integration scheme"
+              "title": "Outline of T. Hélie - IRCAM-STMS - quelques approches pour la synthèse sonore par modélisation physique et l'analyse des Sons"
             }
           }
         ]
@@ -228,10 +226,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dfa889f690000371",
+  "active": "e5f99b45c0ed6357",
   "lastOpenFiles": [
-    "T. Hélie - IRCAM-STMS.md",
+    "Excalidraw/B. Portelenelle.excalidraw.md",
     "Notions/Newmark integration scheme.md",
+    "T. Hélie - IRCAM-STMS.md",
     "Notions/Navier stockes equations.md",
     "Notions/immersion.md",
     "Notions/Kalman filter.md",
@@ -259,7 +258,6 @@
     "notes_conferences",
     "Excalidraw/S. Bonnabel banana.excalidraw.md",
     "_.Images/Pasted image 20241121164610.png",
-    "GDR-GDM IRCAM 20-11-2024 22-11-2024/M. Hariz - Analysis of one-dimensional structure using Lie groups approach.md",
     "Images",
     "GDR-GDM IRCAM 20-11-2024 22-11-2024/F. Boyer.pdf",
     "_.Images/Pasted image 20241121142255.png",
