@@ -1,6 +1,6 @@
 ---
 Conférence: GDR GDM
-Date: 2024-11-21
+Date: 2024-11-22
 Speaker: Mewen Crespo
 Title: Micro-structures et défauts, une approche géométrique
 ---
